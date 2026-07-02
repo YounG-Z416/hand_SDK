@@ -25,7 +25,7 @@ A unified control module for Stellarobot dexterous hands, supporting multiple ha
     </tr>
 </table>
 
-# Structure
+# SDK Structure
 ```
 hand/
 ├── hand/
@@ -45,3 +45,15 @@ hand/
 ├── tests/                   # 测试代码
 └── setup.py                 # 安装配置
 ```
+
+# Documentation
+For more detailed documentation,  see [https://qcnqdkti44v2.feishu.cn/wiki/FoLuwaO3ziOTSZkzplHcStIxnm7](hand_SDK Development Guidelines)
+
+# Contact
+Project Homepage: https://gitee.com/stellarrobot/handsdk
+Feedback: https://gitee.com/stellarrobot/handsdk/issues
+Email: zhiqiangtan89@gmail.com
+Documentation: https://hand-control.readthedocs.io/
+
+# License
+This project is licensed under the MIT License , see [LICENSE](LICENSE) for details.
