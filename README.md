@@ -47,12 +47,15 @@ hand/
 ```
 
 # Documentation
-For more detailed documentation,  see [https://qcnqdkti44v2.feishu.cn/wiki/FoLuwaO3ziOTSZkzplHcStIxnm7](hand_SDK Development Guidelines)
+For more detailed documentation,  see [hand_SDK Development Guidelines](https://qcnqdkti44v2.feishu.cn/wiki/FoLuwaO3ziOTSZkzplHcStIxnm7)
 
 # Contact
 Project Homepage: https://gitee.com/stellarrobot/handsdk
+
 Feedback: https://gitee.com/stellarrobot/handsdk/issues
+
 Email: zhiqiangtan89@gmail.com
+
 Documentation: https://hand-control.readthedocs.io/
 
 # License
