@@ -9,25 +9,7 @@ A unified control module for Stellarobot dexterous hands, supporting multiple ha
 
 | Language | Install | Docs | Example |
 |----------|---------|------|---------|
-| Python | `pip install handsdk` | [hand_SDK Development Guidelines](https://qcnqdkti44v2.feishu.cn/wiki/FoLuwaO3ziOTSZkzplHcStIxnm7)) | [GaiaHand](example/gaiahand_example) [PantheonHand](example/pantheonhand_example) |
-
-<table border="1">
-    <tr>
-        <th>Languege</th>
-        <th>Install</th>
-        <th>Docs</th>
-        <th>Example</th>
-    </tr>
-    <tr>
-        <td><strong>Python</strong></td>
-        <td>pip install handsdk</td>
-        <td><a href="https://qcnqdkti44v2.feishu.cn/wiki/FoLuwaO3ziOTSZkzplHcStIxnm7">hand_SDK Development Guidelines</a></td>
-        <td>
-            <a href="example/gaiahand_example">GaiaHand</a>
-            <a href="pqntheonhand_example">PantheonHand</a>
-        </td>
-    </tr>
-</table>
+| Python | `pip install handsdk` | [hand_SDK Development Guidelines](https://qcnqdkti44v2.feishu.cn/wiki/FoLuwaO3ziOTSZkzplHcStIxnm7)) | [GaiaHand](./gaiahand_example) [PantheonHand](./pantheonhand_example) |
 
 # SDK Structure
 ```
